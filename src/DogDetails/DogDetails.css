@@ -1,0 +1,30 @@
+
+
+.DogDetails-header {
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    font-size: 6em;
+}
+
+.DogDetails img{
+    border-radius: 5%;
+    width: 40%;
+}
+
+.DogDetails ul{
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.DogDetails-bckbtn{
+    border: 2px solid black;
+    padding: 10px 25px;
+    font-size: 1.5em;
+    letter-spacing: 3px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: black;
+
+}

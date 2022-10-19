@@ -1,0 +1,30 @@
+nav {
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+nav a {
+    padding: .5em .5em;
+    margin: 1em 0 1em 0;
+    width: 15%;
+    display: inline-block;
+    color: rgb(151, 151, 151);
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.Nav-home{
+    background-color: rgb(151, 151, 151);
+}
+
+nav a.active {
+    color: whitesmoke;
+}
+
+nav a:hover {
+    color: rgb(101, 101, 101);
+}
+

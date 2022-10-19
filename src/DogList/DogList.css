@@ -1,0 +1,12 @@
+
+
+.DogList-header {
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    font-size: 6em;
+}
+
+.DogList-content img{
+    border-radius: 5%;
+    max-width: 25%;
+}
